@@ -1,0 +1,43 @@
+<Mariana 💖</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe6f2;
+            text-align: center;
+            padding: 50p!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para x;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            max-width: 500px;
+        }
+        h1 {
+            color: #ff66b2;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .heart {
+            color: red;
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Para Minha Querida amiga Mariana 💖</h1>
+        <p>Mariana Farias, fiz esse pequeno site, simples, mas de coração.</p>
+        <p>Passando aqui para dizer que vc é extremamente especial para mim 💕</p>
+        <p>Te amo infinitamente! <span class="heart">❤️</span></p>
+    </div>
+</body>
+</html>
